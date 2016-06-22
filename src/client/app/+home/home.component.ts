@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { REACTIVE_FORM_DIRECTIVES } from '@angular/forms/index';
 
 import { NameListService } from '../shared/index';
+import 'ag-grid-enterprise/main';
 
 /**
  * This class represents the lazy loaded HomeComponent.
